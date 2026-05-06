@@ -1,0 +1,6 @@
+{
+  "name": "SnapSolver AI",
+  "description": "Snap a photo of any worksheet to get instant answers and step-by-step explanations powered by Google Gemini.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["image_processing", "ai_tutoring"]
+}
